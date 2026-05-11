@@ -31,7 +31,7 @@ Existen 3 maneras de obtener los archivos de la evaluación:
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/EliasFullStack/Taller-de-programacion-.git
+https://github.com/EliasFullStack/Taller-de-programacion.git
 ```
 
 Ingresar a la carpeta del proyecto:
