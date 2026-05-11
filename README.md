@@ -13,8 +13,8 @@ En esta evaluación se desarrollan dos scripts en Python utilizando:
 
 ## 📂 Contenido del repositorio
 
-- `script1.py`
-- `script2.py`
+- `script_1.py`
+- `script_2.py`
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -37,17 +37,17 @@ git clone https://github.com/EliasFullStack/Taller-de-programacion-.git
 Ingresar a la carpeta del proyecto:
 
 ```bash
-cd Taller-de-programacion-
+cd Taller-de-programacion
 ```
 
 Ejecutar los scripts:
 
 ```bash
-python script1.py
+python script_1.py
 ```
 
 ```bash
-python script2.py
+python script_2.py
 ```
 
 ---
@@ -58,16 +58,16 @@ También puede descargar el repositorio directamente desde GitHub o utilizar el 
 
 Una vez descargados y descomprimidos los archivos:
 
-1. Ingresar a la carpeta `Taller-de-programacion-`
+1. Ingresar a la carpeta `Taller-de-programacion`
 2. Abrir una terminal o consola en esa carpeta
 3. Ejecutar los scripts:
 
 ```bash
-python script1.py
+python script_1.py
 ```
 
 ```bash
-python script2.py
+python script_2.py
 ```
 
 ---
@@ -79,15 +79,6 @@ Otra alternativa es copiar el código directamente desde el documento Word compa
 Documento Word:
 
 https://docs.google.com/document/d/16jtr5p4abuTeQWw39VURZoqFlO4Q_GvV/edit?usp=sharing&ouid=115496788770680770430&rtpof=true&sd=true
-
----
-
-## 📖 Objetivos
-
-- Trabajar con funciones
-- Utilizar listas
-- Aplicar estructuras condicionales
-- Procesar datos ingresados por el usuario
 
 ---
 
