@@ -1,11 +1,15 @@
-````md
 # Taller de Programación - Evaluación 3
 
 Repositorio correspondiente a la Evaluación 3 del ramo Taller de Programación.
 
 ## 📌 Descripción
 
-En esta evaluación se desarrollan dos scripts en Python utilizando estructuras de control, funciones, listas y procesamiento de datos.
+En esta evaluación se desarrollan dos scripts en Python utilizando:
+
+- Funciones
+- Estructuras condicionales
+- Listas
+- Procesamiento de datos ingresados por el usuario
 
 ## 📂 Contenido del repositorio
 
@@ -16,21 +20,25 @@ En esta evaluación se desarrollan dos scripts en Python utilizando estructuras 
 
 - Python 3
 
-## ⬇️ Clonar repositorio
+---
 
-Para clonar este repositorio en tu computador:
+# ⬇️ Formas de descargar y ejecutar el proyecto
+
+Existen 3 maneras de obtener los archivos de la evaluación:
+
+## 1️⃣ Clonar el repositorio con Git
+
+Clonar el repositorio:
 
 ```bash
 git clone https://github.com/EliasFullStack/Taller-de-programacion-.git
-````
+```
 
-Entrar a la carpeta del proyecto:
+Ingresar a la carpeta del proyecto:
 
 ```bash
 cd Taller-de-programacion-
 ```
-
-## ▶️ Ejecución
 
 Ejecutar los scripts:
 
@@ -42,20 +50,47 @@ python script1.py
 python script2.py
 ```
 
+---
+
+## 2️⃣ Descargar los archivos del repositorio o archivo `.rar`
+
+También puede descargar el repositorio directamente desde GitHub o utilizar el archivo `.rar` entregado.
+
+Una vez descargados y descomprimidos los archivos:
+
+1. Ingresar a la carpeta `Taller-de-programacion-`
+2. Abrir una terminal o consola en esa carpeta
+3. Ejecutar los scripts:
+
+```bash
+python script1.py
+```
+
+```bash
+python script2.py
+```
+
+---
+
+## 3️⃣ Copiar el código desde el documento Word
+
+Otra alternativa es copiar el código directamente desde el documento Word compartido y pegarlo en archivos `.py`.
+
+Documento Word:
+
+https://docs.google.com/document/d/16jtr5p4abuTeQWw39VURZoqFlO4Q_GvV/edit?usp=sharing&ouid=115496788770680770430&rtpof=true&sd=true
+
+---
+
 ## 📖 Objetivos
 
-* Trabajar con funciones
-* Utilizar listas
-* Aplicar estructuras condicionales
-* Procesar datos ingresados por el usuario
+- Trabajar con funciones
+- Utilizar listas
+- Aplicar estructuras condicionales
+- Procesar datos ingresados por el usuario
+
+---
 
 ## 👨‍💻 Autor
 
-* Elias Ortiz
-
-```
-https://docs.google.com/document/d/16jtr5p4abuTeQWw39VURZoqFlO4Q_GvV/edit?usp=sharing&ouid=115496788770680770430&rtpof=true&sd=true
-```
-
-
-link: https://docs.google.com/document/d/16jtr5p4abuTeQWw39VURZoqFlO4Q_GvV/edit?usp=sharing&ouid=115496788770680770430&rtpof=true&sd=true
+- Elias Ortiz
