@@ -13,8 +13,8 @@ En esta evaluación se desarrollan dos scripts en Python utilizando:
 
 ## 📂 Contenido del repositorio
 
-- `script_1.py`
-- `script_2.py`
+- `scripts_1.py`
+- `scripts_2.py`
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -43,11 +43,11 @@ cd Taller-de-programacion
 Ejecutar los scripts:
 
 ```bash
-python script_1.py
+python scripts_1.py
 ```
 
 ```bash
-python script_2.py
+python scripts_2.py
 ```
 
 ---
@@ -63,11 +63,11 @@ Una vez descargados y descomprimidos los archivos:
 3. Ejecutar los scripts:
 
 ```bash
-python script_1.py
+python scripts_1.py
 ```
 
 ```bash
-python script_2.py
+python scripts_2.py
 ```
 
 ---
